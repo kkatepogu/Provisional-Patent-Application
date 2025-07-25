@@ -1,5 +1,6 @@
 # Provisional-Patent-Application
 Smart Location-Based and Destination-Aware Departure Reminder System
+
 This invention helps users receive voice or visual reminders when starting navigation based on their destination type (e.g., “Carry passport when going to airport”).
 
 ✅ Patent Pending - 
